@@ -1,6 +1,6 @@
 {
     "baseURL": "",
-    "useSSLAzure": false,
+    "useSSLAzure": true,
     "useSSL": false,
     "SSLkey": "cert/server.key",
     "SSLcert": "cert/server.crt",
@@ -85,7 +85,7 @@
             "name": "Ng. Inspector",
             "panel": "top",
             "foldername": "ngInspector",
-            "enabled": false
+            "enabled": true
         },
         {
             "id": "DEVICE",
