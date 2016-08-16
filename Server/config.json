@@ -99,7 +99,7 @@
             "name": "Office Addin",
             "panel": "top",
             "foldername": "office",
-            "enabled": false
+            "enabled": true
         },
         {
             "id": "NODEJS",
